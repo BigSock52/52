@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(177, 150, 109);
+    padding-top: 25px;
+}
+.container1{
+    background-color: rgb(255, 240, 240);
+    height: 920px;
+    width: 1080px;
+    margin: 0 auto;
+    border-radius: 16px;
+}
+.img{
+    height:510px;
+    width:410px;
+    margin: 22px 345px;
+}
+.name{
+    font-weight: bold;
+    font-size: xx-large;
+    color: rgb(0, 0, 0);
+    margin: 5px 470px;
+}
+.information{
+    font-size: x-large;
+    font-weight: bold;
+    margin: 20px 33px;
+}
+.money{
+    color: rgb(28, 117, 28);
+    font-size: xx-large;
+    font-weight: 1000;
+    margin-left: 400px;
+}
+button{
+    background-color: rgb(39, 255, 39);
+    color: white;
+    font-size: xx-large;
+    font-weight: 1000;
+    border-radius: 13px;
+    border-color: rgb(39, 255, 39);
+    border-width: 13px;
+    min-width: 23px;
+    min-height:13px; 
+    margin-left: 15px;
+}
